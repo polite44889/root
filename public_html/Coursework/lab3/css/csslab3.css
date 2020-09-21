@@ -4,10 +4,11 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 21.09.2020, 15:32:21
+    Created on : 21.09.2020, 15:43:10
     Author     : mrmus
 */
-h1,h2{
-    color: #C45911;
-    
+
+.h1 {
+    color:#FFB6C1;
+
 }
